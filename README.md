@@ -38,6 +38,9 @@ Atuo na área de QA há 7 anos. Atuei em diversos clientes do setor financeiro e
 # CI/CD
  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
  [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+ ![Jenkinsfile](https://img.shields.io/badge/-Jenkinsfile-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+ ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=for-the-badge&logo=groovy&logoColor=white)
+ ![Azure Pipelines YAML](https://img.shields.io/badge/-Azure%20Pipelines%20YAML-2560E0?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 # Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
