@@ -75,6 +75,11 @@ Ledger Database (blockchain)
 ![APIs REST](https://img.shields.io/badge/-APIs%20REST-009688?style=for-the-badge&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+# Stress Test
+![K6](https://img.shields.io/badge/-K6-000000?logo=k6&logoColor=white&style=for-the-badge)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apache%20jmeter&logoColor=white&style=for-the-badge)
+![Vegeta](https://img.shields.io/badge/-Vegeta-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+
 # Reports
 ![Allure Reports](https://img.shields.io/badge/-Allure%20Reports-FF8400?style=for-the-badge&logo=allure&logoColor=white)
 ![Playwright Reports](https://img.shields.io/badge/-Playwright%20Reports-0078D4?style=for-the-badge&logo=playwright&logoColor=white)
