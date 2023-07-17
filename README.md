@@ -42,6 +42,41 @@ Atuo na área de QA há 7 anos. Atuei em diversos clientes do setor financeiro e
 # Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+# DBs
+Relational databases (SQL)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+Non-relational databases (noSQL)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+Ledger Database (blockchain)
+
+![Amazon QLDB](https://img.shields.io/badge/-Amazon%20QLDB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+# Messaging And Streaming
+
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/-Amazon%20SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+# Apis
+
+![APIs REST](https://img.shields.io/badge/-APIs%20REST-009688?style=for-the-badge&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+# Reports
+![Allure Reports](https://img.shields.io/badge/-Allure%20Reports-FF8400?style=for-the-badge&logo=allure&logoColor=white)
+![Playwright Reports](https://img.shields.io/badge/-Playwright%20Reports-0078D4?style=for-the-badge&logo=playwright&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Cucumber Reports](https://img.shields.io/badge/-Cucumber%20Reports-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
 # Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
@@ -66,4 +101,3 @@ Atuo na área de QA há 7 anos. Atuei em diversos clientes do setor financeiro e
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LucasKoritar23&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKoritar23&theme=neon&hide_border=false"  width="400px" />
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LucasKoritar23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
