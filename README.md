@@ -71,7 +71,7 @@ Ledger Database (blockchain)
 ![Amazon SQS](https://img.shields.io/badge/-Amazon%20SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-# Apis
+# APIs
 
 ![APIs REST](https://img.shields.io/badge/-APIs%20REST-009688?style=for-the-badge&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
