@@ -106,5 +106,5 @@ Ledger Database (blockchain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gimenes-koritar/)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LucasKoritar23&theme=neon&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"  width="200px" />   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKoritar23&theme=neon&hide_border=true"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LucasKoritar23&theme=neon&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"  width="378px" />   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKoritar23&theme=neon&hide_border=true"  width="400px" />
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LucasKoritar23&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=10)
