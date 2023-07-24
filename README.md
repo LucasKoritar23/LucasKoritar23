@@ -108,4 +108,4 @@ Ledger Database (blockchain)
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LucasKoritar23&theme=neon&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKoritar23&theme=neon&hide_border=false"  width="400px" />
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LucasKoritar23&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LucasKoritar23&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=10)
