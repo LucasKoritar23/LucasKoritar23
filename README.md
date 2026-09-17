@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Olá! Me chamo Lucas Koritar, tenho 27 anos, sou QA e me aventuro com desenvolvimentos nas horas vagas. Atualmente trabalho como QA Software Engineering Specialist.
+Olá! Me chamo Lucas Koritar, tenho 30 anos, sou QA e me aventuro com desenvolvimentos nas horas vagas. Atualmente trabalho como QA Software Engineering Specialist.
 
 # 🚀 Expertise
 
