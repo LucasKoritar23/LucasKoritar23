@@ -4,7 +4,7 @@ Olá! Me chamo Lucas Koritar, tenho 30 anos, sou QA e me aventuro com desenvolvi
 
 # 🚀 Expertise
 
-Atuo na área de QA há 7 anos. Atuei em diversos clientes do setor financeiro e possuo amplo conhecimento em automação de testes de API, Frontend e Mobile. Além de possuir conhecimento em DevOps e Cloud.
+Atuo na área de QA há 10 anos. Atuei em diversos clientes do setor financeiro e possuo amplo conhecimento em automação de testes de API, Frontend e Mobile. Além de possuir conhecimento em DevOps e Cloud.
 
 # Test Stacks
 ![Cucumber](https://img.shields.io/badge/-Cucumber-brightgreen?style=for-the-badge&logo=cucumber&logoColor=white)
